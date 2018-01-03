@@ -3,7 +3,7 @@ def division(num1, num2)
 end
 
 def assign_variable(value)
-  value =  value 
+  value =  value
 end
 
 def argue(arument)
@@ -23,5 +23,5 @@ def last_evaluated_value
 end
 
 def pizza_party(topping = cheese)
-
+  topping
 end
